@@ -8,6 +8,6 @@ Compatibility:
 Primarily developed and tested for Minecraft 1.20.1 with the corresponding mod version, but theoretically supports all existing mod versions. Compatibility with other mod versions depends on whether the mod author changes texture names or structure in future updates.
 
 You can get mod from there(the vision for forge):
-Modrinth: https://modrinth.com/mod/advanced-netherite
-Curseforge: https://www.curseforge.com/minecraft/mc-mods/advanced-netherite
-Github: https://github.com/Autovw/AdvancedNetherite
+Modrinth: https://modrinth.com/mod/advanced-netherite  
+Curseforge: https://www.curseforge.com/minecraft/mc-mods/advanced-netherite  
+Github: https://github.com/Autovw/AdvancedNetherite  
